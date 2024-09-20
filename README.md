@@ -3,10 +3,6 @@
 * Built with Next Js and Firebase  
 A Messaging Service App made in Next Js that allows users a realtime text chat(personal and group) experience. Users are required to Signup/Signin using their email and password. The app provides and simple, easy-to-use UI. The database and authentication are handled in Firebase.
 
-# System design document
-Here is the system design doc- https://docs.google.com/document/d/1DpUbMW4mRqBBfrUKZmOvpXHqczgbCReludIy_lvYwWI/edit
-
-
 ## Author Info
 
 Author: Sohum Bansal.   
@@ -16,7 +12,8 @@ Roll No: 2201CE60
 Institute Mail-ID: 2201ce60_sohum@iitp.ac.in  
 Personal Mail-ID: sohumbansal147@gmail.com
 
-
+# System design document
+Here is the system design doc- https://docs.google.com/document/d/1DpUbMW4mRqBBfrUKZmOvpXHqczgbCReludIy_lvYwWI/edit
 
 
 ## Steps to Setup
