@@ -3,7 +3,11 @@
 * Built with Next Js and Firebase  
 A Messaging Service App made in Next Js that allows users a realtime text chat(personal and group) experience. Users are required to Signup/Signin using their email and password. The app provides and simple, easy-to-use UI. The database and authentication are handled in Firebase.
 
+<<<<<<< HEAD
 System Design Doc- [ChatApp](https://docs.google.com/document/d/1DpUbMW4mRqBBfrUKZmOvpXHqczgbCReludIy_lvYwWI/edit)
+=======
+System Design Doc- 
+>>>>>>> fc02abd66463f5c82203761bebde5bb33cb76b9d
 
 
 
